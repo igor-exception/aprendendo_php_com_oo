@@ -67,3 +67,5 @@ O livro é dividido em 7 capítulos principais, com foco crescente em orientaç�
 | 7 | Criação de uma aplicação completa |
 
 ---
+
+![Capa do Livro](./img/capa.jpg)
